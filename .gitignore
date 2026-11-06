@@ -1,2 +1,8 @@
-# This project is a complete Android app starter for Premyer 18+ Studio.
-# To build locally, run: ./gradlew assembleDebug
+.gradle/
+.idea/
+local.properties
+*.iml
+/build
+/app/build
+google-services.json
+.env
