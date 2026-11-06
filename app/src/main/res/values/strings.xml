@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Premyer 18+ Studio</string>
+    <string name="screen_home">Home</string>
+    <string name="screen_ai">AI Studio</string>
+    <string name="screen_beachwear">Beachwear</string>
+    <string name="screen_gallery">Gallery</string>
+    <string name="screen_profile">Profile</string>
+</resources>
